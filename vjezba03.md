@@ -203,7 +203,7 @@ office365 -> https://outlook.office365.com/owa/?realm=vuv.hr#path=/mail
 Koristeći kreiranu DOM biblioteku, u podnožje stranice, unutar liste sa klasom:
 
 ```text
-footernavigation
+footer-navigation
 ```
 
 dodati poveznice spremljene unutar objekta `localStorage`.
